@@ -1,1 +1,4 @@
-primeira linha do ficheiro
+primeira linha do ficheiro alterada
+
+
+quarta linha de texto
